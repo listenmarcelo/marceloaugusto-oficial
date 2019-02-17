@@ -34,8 +34,8 @@ h2 {
 }
 
 h3 {
-  font-family: 'Indie Flower', cursive !important;
-  color: #000000;
+  font-family: 'Saira Extra Condensed', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  color: #684639;
   font-size: 2rem;
 }
 
@@ -257,4 +257,42 @@ a:hover, a:focus, a:active {
 
 .margesq {
 margin-left: 50%;
+}
+
+.bg-light {
+  background-color: #f8f9fa !important;
+}
+  .py-5 {
+  padding-top: 2rem !important;
+}
+.lista-linha li{
+  display: inline-block;
+}
+
+.mgtop {
+  margin-top: 25%;
+}
+
+.carnavalmarg {
+  margin-left: 13%;
+}
+
+.teatromarg {
+  margin-left: 22%;
+}
+
+.margvid {
+  margin-top: 5%;
+}
+
+.backmuda {
+  background: linear-gradient(to bottom, #E6BE87, #4F3251);
+}
+
+.breve {
+  text-align: center;
+}
+
+.caixinha {
+ background-color: #684639d7;
 }
