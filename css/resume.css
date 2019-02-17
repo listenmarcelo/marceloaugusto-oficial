@@ -178,6 +178,10 @@ p.lead {
   text-shadow: #000000a8 0.1em 0.1em 0.2em;
 }
 
+.sombra-semmargem2 {
+  text-shadow: #ffffff 0.1em 0.1em 0.2em;
+}
+
 section.resume-section {
   padding-top: 5rem !important;
   padding-bottom: 5rem !important;
@@ -248,7 +252,7 @@ a:hover, a:focus, a:active {
 
 .fontetrab {
   color: #684639;
-  text-shadow: rgba(230, 190, 135, 0.863) 0.1em 0.1em 0.2em;
+  text-shadow: rgb(255, 255, 255) 0.1em 0.1em 0.2em;
 }
 
 .backtrab {
